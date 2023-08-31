@@ -4,7 +4,7 @@
 
 ### 🤔 Apa itu OpenSID?
 
-OpenSID adalah Sistem Informasi Desa (SID) yang sengaja dibuat supaya terbuka dan dapat dikembangkan bersama-sama oleh komunitas peduli SID.
+OpenSID adalah Sistem Informasi Desa (SID) yang sengaja dibuat supaya terbuka dan dapat dikembangkan bersama-sama oleh komunitas peduli SID. Dengan web desa, diharapkan Praja bisa menggunakan memahami dalam pembuatan web desa
 
 **SID diharapkan dapat membantu pemerintah desa dalam beberapa hal berikut:**
 
